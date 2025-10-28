@@ -38,8 +38,8 @@
     <h1>Welcome to Our Free Wi-Fi</h1>
     <p>Please fill in your details to get connected.</p>
 
-    <!-- Paste your Google Form embed code below -->
-    <<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdD1kgcYTBZ4iCZmG8ZWfcXBU48hVhmfdw5mWqRrY6gehMRYA/viewform?embedded=true" width="640" height="419" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>>
+    
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdD1kgcYTBZ4iCZmG8ZWfcXBU48hVhmfdw5mWqRrY6gehMRYA/viewform?embedded=true" width="640" height="419" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
     <p>By connecting, you agree to receive updates from us.</p>
   </div>
